@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLjSK8b/0AARe1MhfKjDh50KiRQJEyNhjVZUpsC3sMILoyb2wLLROUrmZjE5hCi3EXKtgFOr/wNlg5eEmud7Zw==",
+  "success": true,
+  "projectFilePath": "/home/vladimir/Desktop/cursDotnet/test/test.csproj",
+  "expectedPackageFiles": [
+    "/home/vladimir/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
